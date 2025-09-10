@@ -1,0 +1,29 @@
+# Core Python
+numpy>=1.23.0
+scipy>=1.10.0
+pandas>=1.5.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing
+opencv-python>=4.7.0
+Pillow>=9.5.0
+
+# Diffusion & Stable Diffusion
+diffusers>=0.21.0
+transformers>=4.35.0
+accelerate>=0.24.0
+safetensors>=0.4.0
+
+# Semantic Segmentation Models
+segmentation-models-pytorch>=0.3.2
+
+# Utilities
+matplotlib>=3.7.0
+tqdm>=4.65.0
+
+# For experiments & notebooks
+jupyter>=1.0.0
+notebook>=7.0.0
